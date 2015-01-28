@@ -22,3 +22,9 @@ rescue => e
   #... here you could access details of nested error
 end
 ```
+
+## 2015-01-28
+
+### module ClassMethods && module InstanceMethods in Ruby
+How to extend classes with class methods & instance methods
+http://yehudakatz.com/2009/11/12/better-ruby-idioms/
